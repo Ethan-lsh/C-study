@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            // "browse": {
+            //     "path": [
+            //         "C:\\Program Files\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include",
+            //         "C:\\Program Files\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include-fixed",
+            //         "C:\\Program Files\\mingw64\\include",
+            //         "${workspaceRoot}",
+            //     ]
+            // },
+            "compilerPath": "C:\\Program Files\\mingw64\\bin\\gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
